@@ -5,7 +5,7 @@ module.exports = (babel) => {
   const { types: t } = babel;
   
   return {
-    name: "native-base-theme-plugin", // not required
+    name: "native-base-theme-plugin",
     visitor: {
       Identifier (path, {file}) {
         if (path.node.type === "Identifier" && path.node.name === "getTheme") {
