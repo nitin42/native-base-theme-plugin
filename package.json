@@ -1,0 +1,24 @@
+{
+  "name": "native-base-theme-plugin",
+  "version": "0.0.1",
+  "description": "A Babel plugin that adds native-base-theme import declaration.",
+  "main": "index.js",
+  "repository": "https://github.com/nitin42/native-base-theme-plugin.git",
+  "author": "Nitin <tulswani19@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-plugin-jsx": "^1.2.0",
+    "babel-plugin-transform-react-jsx": "^6.23.0",
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "components",
+    "native-base-theme",
+    "attributes",
+    "getTheme"
+  ],
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  }
+}
