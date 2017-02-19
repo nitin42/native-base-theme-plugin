@@ -10,7 +10,7 @@ let transform;
 describe('native-base-theme-plugin', () => {
   beforeEach(() => {
   	transform = code => babel.transform(code, {
-  		plugins: [native_plugin, 'transform-react-jsx'],
+  		plugins: [native_plugin, 'transform-react-jsx']
   	}).code;
   });
 
