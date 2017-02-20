@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/nitin42/native-base-theme-plugin/master/Group.png)
 
-> ***A Babel plugin for React Native that adds native-base-theme import declaration in your `index.ios.js`.***
+> A Babel plugin for React Native that adds native-base-theme import declaration in your `index.ios.js`.
 
 ## Install
 
