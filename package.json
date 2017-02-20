@@ -1,5 +1,5 @@
 {
-  "name": "native-base-theme-plugin",
+  "name": "native-base-theme-require",
   "version": "0.0.1",
   "description": "A Babel plugin that adds native-base-theme import declaration.",
   "main": "index.js",
