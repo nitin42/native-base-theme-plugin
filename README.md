@@ -1,5 +1,5 @@
 # native-base-theme-require 
-(yet to be publish on npm)
+[![Build Status](https://travis-ci.org/nitin42/native-base-theme-plugin.svg?branch=master)](https://travis-ci.org/nitin42/native-base-theme-plugin)
 
 ![](https://raw.githubusercontent.com/nitin42/native-base-theme-plugin/master/Group.png)
 
